@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["conole","log"],"mappings":"AAAAA,MAAM,CAACC,GAAG,CAAC,OAAO,CAAC","file":"bundel.js","sourceRoot":"..\\..\\starter\\public\\js","sourcesContent":["conole.log(\"hiiii\");"]}
